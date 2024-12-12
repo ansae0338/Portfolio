@@ -4,7 +4,7 @@ let htmlProgress = document.querySelector(".html-css"),
 
 let htmlStartValue = 0,
   htmlEndValue = 90,
-  htmlspeed = 30;
+  htmlspeed = 50;
 
 let progresshtml = setInterval(() => {
   htmlStartValue++;
